@@ -1,16 +1,18 @@
-## Hi there 👋
+ # 👋 Olá, eu sou Ricardo Gabriel Sena de Sousa!
 
-<!--
-**Ricardosena15/Ricardosena15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante do curso técnico de Informática no Colégio Augustos  
+💻 Aprendendo HTML e CSS  
+📍 De Sabará, MG (mas nascido em Divinópolis)  
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
+Tenho 16 anos e sou apaixonado por tecnologia e desenvolvimento web. Atualmente, estou focado em aprimorar minhas habilidades em HTML e CSS para criar interfaces incríveis. Meu objetivo é continuar aprendendo e expandindo meus conhecimentos no mundo da programação.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Como me encontrar?
+- 💬 Me chame para conversar sobre tecnologia e desenvolvimento!  
+- 📩 [Seu e-mail ou redes sociais, se quiser compartilhar]  
+
+### ⚡ Curiosidades
+- Estou sempre buscando aprender algo novo  
+- Gosto de desafios e de resolver problemas com código  
+
+Obrigado por visitar meu perfil! 😊  
