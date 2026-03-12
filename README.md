@@ -1,18 +1,50 @@
- # 👋 Olá, eu sou Ricardo Gabriel Sena de Sousa!
+# 👋 Olá, eu sou Ricardo Gabriel Sena de Sousa!
 
-🎓 Estudante do curso técnico de Informática no Colégio Augustos  
-💻 Aprendendo HTML e CSS  
-📍 De Sabará, MG (mas nascido em Divinópolis)  
+🎓 Estudante do curso técnico de Informática no Colégio Augustos
+💻 Desenvolvedor Web em aprendizado
+📍 De Sabará, MG (nascido em Divinópolis)
 
 ## 🚀 Sobre mim
-Tenho 16 anos e sou apaixonado por tecnologia e desenvolvimento web. Atualmente, estou focado em aprimorar minhas habilidades em HTML e CSS para criar interfaces incríveis. Meu objetivo é continuar aprendendo e expandindo meus conhecimentos no mundo da programação.  
 
-## 📫 Como me encontrar?
-- 💬 Me chame para conversar sobre tecnologia e desenvolvimento!  
-- 📩 [Seu e-mail ou redes sociais, se quiser compartilhar]  
+Tenho 17 anos e sou apaixonado por tecnologia e desenvolvimento web.
+Atualmente estou focado em desenvolver **sites e sistemas completos**, trabalhando tanto no **frontend quanto no backend**.
 
-### ⚡ Curiosidades
-- Estou sempre buscando aprender algo novo  
-- Gosto de desafios e de resolver problemas com código  
+Gosto de aprender novas tecnologias e criar projetos que resolvem problemas reais. Meu objetivo é evoluir cada vez mais como desenvolvedor e construir aplicações modernas e eficientes.
 
-Obrigado por visitar meu perfil! 😊  
+## 🛠️ Tecnologias que já utilizei
+
+### 🌐 Frontend
+
+* HTML5
+* CSS3
+* JavaScript
+* React
+* Vue.js
+
+### ⚙️ Backend
+
+* Node.js
+* Express
+
+### 🗄️ Banco de Dados
+
+* MySQL
+* Prisma ORM
+
+### 🔧 Ferramentas
+
+* Git
+* GitHub
+* Insomnia (testar APIs)
+
+## 📫 Como me encontrar
+
+💬 Sempre aberto para conversar sobre tecnologia e desenvolvimento
+
+## ⚡ Curiosidades
+
+* Gosto de resolver problemas com código
+* Sempre estou buscando aprender algo novo
+* Curto desenvolver projetos reais para praticar programação
+
+Obrigado por visitar meu perfil! 🚀
